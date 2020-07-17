@@ -1,2 +1,1 @@
-# Test
-#ssm-blog-wuzixin
+# ssm-blog-wuzixin
